@@ -41,7 +41,7 @@ I code for fun, improve for impact. I'm also passionate about reading others' co
 * **Hobbies:** Anime, Gym, YouTube, and Motorcycles.
 
 ### Connect with me
-[LinkedIn](https://www.linkedin.com/in/irving-s%C3%A1nchez-rold%C3%A1n-3958a6236/)
+[LinkedIn](https://www.linkedin.com/in/irvingsrdev/)
 
 <br />
 
