@@ -36,7 +36,7 @@ I code for fun, improve for impact. I'm also passionate about reading others' co
 ### Fun Facts
 * I take care of a single plant, and I love it.
 * Prefer tea over coffee.
-* Gamer and Basketball enthusiast (LeBron & MJ are the GOATs).
+* Gamer and Basketball enthusiast (LeBron & MJ are my GOATs).
 * *Shingeki no Kyojin* is my favorite anime.
 * **Hobbies:** Anime, Gym, YouTube, and Motorcycles.
 
