@@ -9,7 +9,7 @@ I mainly build Web Apps, but I'm currently expanding into **Cloud, Networking & 
 
 I code for fun, improve for impact. I'm also passionate about reading others' code to learn new patterns.
 
-**Main Stack:** Angular/React/Vue/Astro, C#, Tailwind, UI Animations, SQL/NoSQL, Pub/Sub.
+**Main Stack:** Angular/React/Vue/Astro, C#/.NET, PHP/Laravel, Tailwind, UI Animations, SQL/NoSQL, Pub/Sub.
 
 ---
 
